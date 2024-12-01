@@ -8,7 +8,7 @@
 
 This project demonstrates how to create a simple Python web application using Flask, containerize it with Docker, and set up a Continuous Integration and Continuous Deployment (CI/CD) pipeline using GitHub Actions. The Docker image is automatically built and pushed to Docker Hub whenever changes are made to the codebase.
 
-![Successful Implementation](example.png)
+![Successful Implementation Example](example.png)
 
 ## **Features**
 
