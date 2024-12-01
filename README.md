@@ -37,11 +37,6 @@ docker ps          # List running containers to find the CONTAINER ID
 docker stop <CONTAINER_ID>
 ```
 
-
-## **Contributing**
-
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
-
 ## **License**
 
 This project is licensed under the MIT License.
